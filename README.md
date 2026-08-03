@@ -2,7 +2,6 @@
 
 ### BIOS开发
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zxy160&label=Views&color=0e75b6&style=flat" alt="zxy160" /> </p>
 
 - 🔭 I'm currently working on **BIOS研发**
 
